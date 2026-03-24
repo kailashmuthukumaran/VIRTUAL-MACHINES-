@@ -1,5 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+# Name: KAILASH SM 
+# Register Number: 212222040068
 
 Aim:
 To move the files between virtual machine.
